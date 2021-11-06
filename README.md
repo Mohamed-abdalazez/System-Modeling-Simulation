@@ -1,7 +1,7 @@
 # System-Modeling-Simulation
 
 
-## Discrete simulation project
+### Discrete simulation project
 
 - Mode one :
 
